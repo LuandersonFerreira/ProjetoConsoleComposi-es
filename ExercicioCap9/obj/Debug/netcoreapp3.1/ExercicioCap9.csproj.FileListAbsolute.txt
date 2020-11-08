@@ -1,0 +1,4 @@
+C:\Users\Luanderson\source\repos\ExercicioCap9\ExercicioCap9\obj\Debug\netcoreapp3.1\ExercicioCap9.csprojAssemblyReference.cache
+C:\Users\Luanderson\source\repos\ExercicioCap9\ExercicioCap9\obj\Debug\netcoreapp3.1\ExercicioCap9.AssemblyInfoInputs.cache
+C:\Users\Luanderson\source\repos\ExercicioCap9\ExercicioCap9\obj\Debug\netcoreapp3.1\ExercicioCap9.AssemblyInfo.cs
+C:\Users\Luanderson\source\repos\ExercicioCap9\ExercicioCap9\obj\Debug\netcoreapp3.1\ExercicioCap9.csproj.CoreCompileInputs.cache
